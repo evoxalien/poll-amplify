@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pollamplify-dev-174937-authRole",
+      "UnauthRoleArn": "arn:aws:iam::863542587182:role/amplify-pollamplify-dev-174937-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::863542587182:role/amplify-pollamplify-dev-174937-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-pollamplify-dev-174937-deployment",
+      "UnauthRoleName": "amplify-pollamplify-dev-174937-unauthRole",
+      "StackName": "amplify-pollamplify-dev-174937",
+      "StackId": "arn:aws:cloudformation:us-west-2:863542587182:stack/amplify-pollamplify-dev-174937/b51e6bc0-8079-11eb-a3ff-0aa04a59775b",
+      "AmplifyAppId": "d3brzgzv6zmioh"
+    }
+  },
+  "poll": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pollamplify-poll-175305-authRole",
+      "UnauthRoleArn": "arn:aws:iam::863542587182:role/amplify-pollamplify-poll-175305-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::863542587182:role/amplify-pollamplify-poll-175305-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-pollamplify-poll-175305-deployment",
+      "UnauthRoleName": "amplify-pollamplify-poll-175305-unauthRole",
+      "StackName": "amplify-pollamplify-poll-175305",
+      "StackId": "arn:aws:cloudformation:us-west-2:863542587182:stack/amplify-pollamplify-poll-175305/30c05a90-807a-11eb-9dde-0a803c527683",
+      "AmplifyAppId": "d3brzgzv6zmioh"
+    }
+  }
+}
